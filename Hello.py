@@ -1,4 +1,4 @@
 # coding = utf-8
 
-string = "Hello, world."
+string = "Hello, my life!"
 print(string)
